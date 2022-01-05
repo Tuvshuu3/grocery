@@ -1,0 +1,36 @@
+.Bottom_Menu_Square {
+    height: 40.686492919921875px;
+    width: 52px;
+    border-radius: 0px;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom_menu_text {
+    font-family: ABeeZee;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.bottom_menu {
+    width: 100vw;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-shadow: 0px -12px 37px rgb(230 235 243 / 50%);
+    background-color: white;
+    border-radius: 15px 15px 0px 0px;
+    align-items: center;
+}
+

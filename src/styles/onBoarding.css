@@ -1,0 +1,33 @@
+.body_onboarding {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../assets/manpicture.svg");
+  display: flex;
+  align-items: flex-end;
+}
+
+.bottom {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.Start_Button {
+  background-color: #53b175;
+  height: 67px;
+  width: 353px;
+  border-radius: 19px;
+  color: white;
+  font-family: ABeeZee;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0px;
+  text-align: center;
+  border: 0px;
+}

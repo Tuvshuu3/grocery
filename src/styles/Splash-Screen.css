@@ -1,0 +1,9 @@
+.Splash_Screen {
+    width: 100vw;
+    height: 100vh;
+    background-color: #53B175;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Lato:wght@100&display=swap');
+
+.body_shop {
+    width: 100vw;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    gap: 15px;
+    align-self: center;
+}
+
+.Bottom_Menu_for_bottom {
+    bottom: 0;
+    position: fixed;
+}
+
+/* .contents {
+    width: 150vw;
+    height: 332px;
+
+} */
